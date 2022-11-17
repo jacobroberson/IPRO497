@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  background-color: #d12030;
+  height: 100px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.header__icon {
+  width: 90px;
+  height: 90px;
+}
+
+.header__center {
+  padding-left: 152.5px;
+  max-width: fit-content;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.header__right {
+  padding: 25px;
+}
+
+.admin-button .MuiButton-label {
+  color: white;
+  cursor: pointer;
+  padding-right: 10px;
+}
+
+.MuiAvatar-circular {
+  float: right;
+}

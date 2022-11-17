@@ -1,0 +1,51 @@
+.locationPage {
+  display: inline;
+  float: middle;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  padding-top: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.nameBox > h1 {
+  font-size: 75px;
+}
+
+.image > img {
+  float: left;
+  margin-left: 100px;
+  margin-top: 20px;
+  width: 1000px;
+  height: 700px;
+  border-radius: 20px;
+}
+
+.reserveButton > button {
+  font-size: 25px;
+  margin: 20px;
+  background-color: #d12030;
+  color: white;
+  text-transform: inherit;
+  font-weight: 600;
+}
+
+.reserveButton > button:hover {
+  color: #d12030;
+  background-color: white;
+}
+
+.facilities {
+  text-align: left;
+  float: right;
+  padding-top: 300px;
+  padding-right: 550px;
+}
+
+.facilities > p {
+  font-size: 25px;
+}
+
+.facilities > h2 {
+  font-size: 50px;
+}
